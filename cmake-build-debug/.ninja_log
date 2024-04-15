@@ -1,0 +1,8 @@
+# ninja log v5
+1	251	7348886201678369	CMakeFiles/CountdownSort.dir/main.cpp.obj	484f5852524c31db
+0	88	7348886211788238	build.ninja	6d3ec668c712a150
+7	286	7348874004129643	CMakeFiles/CountdownSort.dir/map.cpp.obj	9787aded9b99488c
+2	296	7348875034767110	CMakeFiles/CountdownSort.dir/mymap.cpp.obj	862dd20ab8ad6be7
+251	328	7348886202424705	CountdownSort.exe	7d6ca41ab6e73053
+2	376	7348918969621100	CMakeFiles/CountdownSort.dir/main.cpp.obj	484f5852524c31db
+376	612	7348918971941036	CountdownSort.exe	7d6ca41ab6e73053
